@@ -14,3 +14,9 @@ First milestone: 10 automated sales of the 14-Tage-Energie-Plan (0 / 10).
 
 Business brief created.
 Saved at `market/business-brief.md` (moved from `resources/`), split into CURRENT REALITY, NEXT MILESTONE and LONG-TERM SCALE TARGET.
+
+## 2026-11-11
+
+Problem research created at `problems/problem-research.md`, built from existing Notion and Google Drive research (11-response survey, target-audience research, forum/review analysis, competitor analysis).
+11 problems organised. Strong research candidates: low energy; symptoms dismissed as "just stress".
+Correction: survey shows 8 of 11 named low energy (not 100%). Business brief updated, including approximate audience numbers.

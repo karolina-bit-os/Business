@@ -46,10 +46,10 @@ Nothing in parts 2 or 3 is an achievement.
 ## Existing Audience
 | Channel | Language | Topic | Size | Engagement |
 |---|---|---|---|---|
-| Instagram | German | Perimenopause, late pregnancy | UNKNOWN | UNKNOWN |
+| Instagram (@karolina.lampka) | German | Perimenopause, late pregnancy | ~324 followers (unchecked, date unknown) | UNKNOWN |
 | TikTok | German | Perimenopause, late pregnancy | UNKNOWN | UNKNOWN |
-| LinkedIn | English | UNKNOWN | UNKNOWN | UNKNOWN |
-| CHAVA email list | UNKNOWN | UNKNOWN | UNKNOWN | UNKNOWN |
+| LinkedIn | English | UNKNOWN | ~142 contacts / ~168 followers (unchecked, date unknown) | UNKNOWN |
+| CHAVA email list | UNKNOWN | UNKNOWN | ~17 women (per research doc, 30.10.2026) | UNKNOWN |
 
 - Customers from this audience: **NONE YET** (health niche)
 
@@ -86,7 +86,7 @@ Nothing in parts 2 or 3 is an achievement.
 | Brand identity | Exists |
 | Instagram content strategy | Exists |
 | Competitor research | Exists. Findings: UNKNOWN |
-| Survey data | Exists. 100% of respondents named low energy. **Number of respondents: UNKNOWN** |
+| Survey data | Exists. **11 complete responses** (Aug–Sep 2026). **8 of 11** named low energy (corrected 2026-11-11 from "100%"; source: Notion survey summary). 6 left an email address |
 | Legal texts | Exist. Scope: UNKNOWN |
 | Published books | Exist. **Currently blocked on Amazon KDP**. Reason and titles: UNKNOWN |
 
@@ -103,9 +103,9 @@ Nothing in parts 2 or 3 is an achievement.
 **Operating preference:** dislikes customer acquisition and sales. Wants the whole path automated: people **find, buy or book on their own**. Happy to coach personally **once payment is in**.
 
 ## Open Questions (UNKNOWNs to resolve later)
-1. Follower counts and engagement on Instagram, TikTok and LinkedIn
-2. CHAVA email list size and open/click rates
-3. Number of survey respondents and how they were recruited
+1. TikTok follower count; engagement on all channels; current check of the approximate Instagram/LinkedIn numbers
+2. CHAVA email list open/click rates (size ~17 per research doc)
+3. How the 11 survey respondents were recruited
 4. Actual numbers behind "low uptake" on the two funnels (visitors, sign-ups)
 5. Format, price and delivery of the two 1:1 advisory offers
 6. Why the books are blocked on KDP, and whether that can be fixed
