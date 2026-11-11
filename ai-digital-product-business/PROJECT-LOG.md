@@ -24,3 +24,8 @@ Correction: survey shows 8 of 11 named low energy (not 100%). Business brief upd
 ## 2026-11-11
 
 13 real problems logged.
+
+## 2026-11-11
+
+Customer research profile created at `customers/customer-research-profile.md`.
+3 evidence-based segments kept separate (no persona): A survey respondents (own data), B solo self-employed women in perimenopause (public research only), C women using AI for brain fog at work (2 Reddit threads).
