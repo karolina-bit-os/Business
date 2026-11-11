@@ -85,7 +85,7 @@ Nothing in parts 2 or 3 is an achievement.
 | **CHAVA Method** framework + course architecture | Exists. Owner is not happy with the offer yet |
 | Brand identity | Exists |
 | Instagram content strategy | Exists |
-| Competitor research | Exists. Findings: UNKNOWN |
+| Competitor research | Exists (DACH analysis, Oct 2026; figures not yet verified). Summary in `problems/problem-research.md` (source S4) |
 | Survey data | Exists. **11 complete responses** (Aug–Sep 2026). **8 of 11** named low energy (corrected 2026-11-11 from "100%"; source: Notion survey summary). 6 left an email address |
 | Legal texts | Exist. Scope: UNKNOWN |
 | Published books | Exist. **Currently blocked on Amazon KDP**. Reason and titles: UNKNOWN |

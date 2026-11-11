@@ -20,3 +20,7 @@ Saved at `market/business-brief.md` (moved from `resources/`), split into CURREN
 Problem research created at `problems/problem-research.md`, built from existing Notion and Google Drive research (11-response survey, target-audience research, forum/review analysis, competitor analysis).
 11 problems organised. Strong research candidates: low energy; symptoms dismissed as "just stress".
 Correction: survey shows 8 of 11 named low energy (not 100%). Business brief updated, including approximate audience numbers.
+
+## 2026-11-11
+
+13 real problems logged.
